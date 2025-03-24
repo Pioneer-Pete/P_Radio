@@ -1,0 +1,8 @@
+If debugging does not work
+
+start cmd as administrator
+run
+
+Regsvr32 /u "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.DLL"
+
+Regsvr32 "C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.DLL"

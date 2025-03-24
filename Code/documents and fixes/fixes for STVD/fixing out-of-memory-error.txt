@@ -1,0 +1,3 @@
+
+If STVD crashes when starting the Tools - Programmer option, copy the file ProgrammerAddOn.dll over the one in /STVD
+ 
