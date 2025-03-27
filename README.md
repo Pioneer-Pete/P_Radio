@@ -12,7 +12,7 @@ Excluding the 3D printing costs, each unit meets the original goal, coming in at
  
  Code: The radio is powered by an STM8S003F3, a cost-effective 8-bit microcontroller. This necessitated using STM's STVD and STVP to program the boards. If remaking the project, I would look into using the STM Arduino library instead.
 
- Assembly: Everything snaps together without any hardware; the hole at the top of the shell accepts a ~4-inch length of standard 1.75mm filament to act as the antenna. The batteries require a small strip of aluminum foil to complete the circuit at the end opposite the PCB. The calculated battery lifespan is 1-2 months, but it has yet to be tested.
+ Assembly: Everything snaps together without any hardware; the hole at the top of the shell accepts a ~4-inch length of standard 1.75mm filament to act as the "antenna". The batteries require a small strip of aluminum foil to complete the circuit at the end opposite the PCB. The calculated battery lifespan is 1-2 months, but it has yet to be tested.
 
 ## Fine Print
 
